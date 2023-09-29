@@ -1,0 +1,164 @@
+leftnav:
+- identifier: e102fdae-f6bc-b1db-5f20-1c1ced35714d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 533d102e-fe06-9d1d-b963-beda43cca2a1
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 2a9b49a8-0ffb-e349-812d-37ac6b7d3fea
+  name: Teaching Online to Improve Residential Education
+  pageRef: /pages/instructor-insights/teaching-online-to-improve-residential-education
+  parent: 533d102e-fe06-9d1d-b963-beda43cca2a1
+  weight: 30
+- identifier: 5561a0f4-bcdf-0f2e-3ca2-fe7ea9878867
+  name: Adapting Content, Communicating Differently
+  pageRef: /pages/instructor-insights/adapting-content-communicating-differently
+  parent: 533d102e-fe06-9d1d-b963-beda43cca2a1
+  weight: 40
+- identifier: aa059fb3-678c-cdd9-8692-3b443c48a843
+  name: Valuing the Contributions of Others
+  pageRef: /pages/instructor-insights/valuing-the-contributions-of-others
+  parent: 533d102e-fe06-9d1d-b963-beda43cca2a1
+  weight: 50
+- identifier: 7812a93a-44ef-b5a1-dc9c-e62cd47381e1
+  name: Assessment in an Online Course
+  pageRef: /pages/instructor-insights/assessment-in-an-online-course
+  parent: 533d102e-fe06-9d1d-b963-beda43cca2a1
+  weight: 60
+- identifier: 9f03331a-f390-bae1-961c-a4a065522188
+  name: Reaching Audiences More Effectively
+  pageRef: /pages/instructor-insights/reaching-audiences-more-effectively
+  parent: 533d102e-fe06-9d1d-b963-beda43cca2a1
+  weight: 70
+- identifier: e5f20d47-d4ec-6b5c-b450-805b230e1676
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 80
+- identifier: 4f99d0cb-2a63-3499-552c-eac598125a32
+  name: Readings
+  pageRef: /pages/readings
+  weight: 90
+- identifier: 94fe577d-947e-50f0-ad69-b2b814bc701f
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 100
+- identifier: ef817a31-4049-6ab2-196d-039b0fac2a4f
+  name: Week 1 Assignments
+  pageRef: /pages/assignments/assignments-week1
+  parent: 94fe577d-947e-50f0-ad69-b2b814bc701f
+  weight: 110
+- identifier: 75a94bbd-5874-00e9-cb90-d9e8a81237e1
+  name: Week 2 Assignments
+  pageRef: /pages/assignments/assignments-week2
+  parent: 94fe577d-947e-50f0-ad69-b2b814bc701f
+  weight: 120
+- identifier: 234d93e1-0acc-bc1c-8453-f97cb67960b4
+  name: Week 3 Assignments
+  pageRef: /pages/assignments/assignments-week3
+  parent: 94fe577d-947e-50f0-ad69-b2b814bc701f
+  weight: 130
+- identifier: 2cdcffb4-876c-b136-8321-2e200c572bfc
+  name: Week 4 Assignments
+  pageRef: /pages/assignments/assignments-week4
+  parent: 94fe577d-947e-50f0-ad69-b2b814bc701f
+  weight: 140
+- identifier: 82e810b9-f780-6189-f95b-0c175f178d3b
+  name: Week 6 Assignments
+  pageRef: /pages/assignments/assignments-week6
+  parent: 94fe577d-947e-50f0-ad69-b2b814bc701f
+  weight: 150
+- identifier: df93fe47-3c48-d7d1-4fa8-ea3d9f3faf34
+  name: 'Week 1: Introduction: Challenges and Opportunities'
+  pageRef: /pages/introduction-challenges-and-opportunities/
+  weight: 160
+- identifier: 114e23f4-e7b1-a0fa-ec0b-a7c0a7e4965b
+  name: 1.1 Introduction to the Course and the 15.662x Team
+  pageRef: /pages/introduction-challenges-and-opportunities/introduction-to-the-course-and-the-15-662x-team/
+  parent: df93fe47-3c48-d7d1-4fa8-ea3d9f3faf34
+  weight: 170
+- identifier: 173cc7dd-fe9f-3f4f-025e-f7e0b4b36f62
+  name: 1.2 Challenges and Opportunities as You Enter the Workforce
+  pageRef: /pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/
+  parent: df93fe47-3c48-d7d1-4fa8-ea3d9f3faf34
+  weight: 180
+- identifier: 8ca20735-06db-3b90-ecd3-e19b98bf4c54
+  name: 1.3 For More Information...
+  pageRef: /pages/introduction-challenges-and-opportunities/for-more-information/
+  parent: df93fe47-3c48-d7d1-4fa8-ea3d9f3faf34
+  weight: 190
+- identifier: 70bd0a36-33bf-549f-7c43-cefbaf26cba9
+  name: 'Week 2: The Old Social Contract'
+  pageRef: /pages/the-old-social-contract/
+  weight: 200
+- identifier: e9baa7d4-6103-9105-7712-1907ecaeca9f
+  name: 2.1 What Made the Old Social Contract Work and Why did It Break Down?
+  pageRef: /pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/
+  parent: 70bd0a36-33bf-549f-7c43-cefbaf26cba9
+  weight: 210
+- identifier: 83316687-e25d-0ebe-f205-81a0b8163483
+  name: 2.2 For More Information...
+  pageRef: /pages/the-old-social-contract/for-more-information-0
+  parent: 70bd0a36-33bf-549f-7c43-cefbaf26cba9
+  weight: 220
+- identifier: cc30bcc3-b45c-6b22-0f21-45ce29d9b264
+  name: 'Week 3: Innovations in the 1980s and Beyond'
+  pageRef: /pages/innovations-in-the-1980s-and-beyond/
+  weight: 230
+- identifier: 258e8c83-6d79-345d-402f-95a9cd7cf2cd
+  name: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
+  pageRef: /pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/
+  parent: cc30bcc3-b45c-6b22-0f21-45ce29d9b264
+  weight: 240
+- identifier: 0cc0671a-ff17-0e1e-2077-fc787eca8faa
+  name: 3.2 Around the World
+  pageRef: /pages/innovations-in-the-1980s-and-beyond/around-the-world-1/
+  parent: cc30bcc3-b45c-6b22-0f21-45ce29d9b264
+  weight: 250
+- identifier: 8589bba5-33c6-86ce-de6b-eed8525d000b
+  name: 3.3 For More Information...
+  pageRef: /pages/innovations-in-the-1980s-and-beyond/for-more-information-1
+  parent: cc30bcc3-b45c-6b22-0f21-45ce29d9b264
+  weight: 260
+- identifier: 3540dcb6-fb3e-3c8e-faca-c24bd7cb1835
+  name: 'Week 4: New Emerging Models'
+  pageRef: /pages/new-emerging-models/
+  weight: 270
+- identifier: 18bae989-2a0a-d3ae-85c2-2596eee9b14a
+  name: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
+  pageRef: /pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/
+  parent: 3540dcb6-fb3e-3c8e-faca-c24bd7cb1835
+  weight: 280
+- identifier: 4ecd2426-44a7-38e7-a279-02211bfbfebc
+  name: 'Week 5: The Worker Voice and Advocacy'
+  pageRef: /pages/the-worker-voice-and-advocacy/
+  weight: 290
+- identifier: f64caa34-6fa7-0afb-a933-c8855e020995
+  name: 5.1 Emerging Models of Worker Voice and Advocacy
+  pageRef: /pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/
+  parent: 4ecd2426-44a7-38e7-a279-02211bfbfebc
+  weight: 300
+- identifier: e2fc4597-2bf2-1df2-8f17-2455eb1e2193
+  name: 5.2 For More Information...
+  pageRef: /pages/the-worker-voice-and-advocacy/for-more-information-2
+  parent: 4ecd2426-44a7-38e7-a279-02211bfbfebc
+  weight: 310
+- identifier: 06700492-6edd-af8f-bf2b-db9e3d3583b8
+  name: 'Week 6: The Social Contract Negotiation Exercise'
+  pageRef: /pages/the-social-contract-negotiation-exercise/
+  weight: 320
+- identifier: d8a3dcd8-3f59-9727-1c72-ccbea16c8506
+  name: 6.1 Social Contract Negotiations Exercise
+  pageRef: /pages/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise/
+  parent: 06700492-6edd-af8f-bf2b-db9e3d3583b8
+  weight: 330
+- identifier: 5f95245a-6d5e-2d61-826e-4de065f39fcc
+  name: 'Week 7: Student Reports on Their Plans for Action'
+  pageRef: /pages/student-reports-on-their-plans-for-action/
+  weight: 340
+- identifier: d1a164f4-e850-d6ed-b29a-355c3e862085
+  name: 7.1 Live Event Presentation
+  pageRef: /pages/student-reports-on-their-plans-for-action/live-event-presentation
+  parent: 5f95245a-6d5e-2d61-826e-4de065f39fcc
+  weight: 350
